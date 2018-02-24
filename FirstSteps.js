@@ -9,7 +9,7 @@ var myhome = require('myhome');
 // connect with the myhome gateway
 var mhengine = new myhome.engine({
 	host:'192.168.1.35',
-	pass:'12345'
+	pass:'enterYourPassword'
 });
 
 
